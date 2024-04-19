@@ -1,0 +1,12 @@
+.tabela1 {
+    border-collapse: collapse;
+    width: 100%;
+}
+.celula, .linha {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+.celula{
+    background-color: #f2f2f2;
+}
